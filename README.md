@@ -22,3 +22,4 @@ c. Largest/ Worst
 <br><br>We apply Logistic Regression to predict y with respect to all x and fit the best curve.
 <hr>
 </ul>
+<li><b>Chance_of_Admission_Prediction:</b></li>
